@@ -113,7 +113,7 @@ pip install -r requirements.txt
 
 ## 🤝 Contributing
 We welcome contributions from researchers and engineers. However, because this is a scientific tool, strict standards apply regarding code correctness, testing, and commit hygiene.
-Please read [Contribution Guide](CONTRIBUTING) before submitting a Pull Request.
+Please read [Contribution Guide](CONTRIBUTING.md) before submitting a Pull Request.
 ### Key Contribution Areas:
 #### Core tracing logic & PyTorch hooks.
 ##### Influence metrics & statistical analysis.
