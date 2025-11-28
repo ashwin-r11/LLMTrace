@@ -1,5 +1,5 @@
-# Contributing Guide to LLM-Trace
-**Version:** 1.0 
+# Contributing to LLM-Trace
+**Version:** 1.0 (Strict Enforcement)
 
 Welcome to the development team for **LLM-Trace**.
 
